@@ -1,5 +1,5 @@
 class AlarmClock {
-  constructr() {
+  constructor() {
     this.alarmCollection = [];
     this.intervalId = null;
   }
